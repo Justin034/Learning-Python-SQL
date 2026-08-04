@@ -10,7 +10,7 @@ The purpose of this folder is for minor testing of new concepts that I may imple
 This file is used to personally compress multiple PDF files without using an online resource for file compression
 
 # Resources
-The following are  a list of resources I used to learn X concepts
+The following are  a list of resources I used to learn concepts
 
 ## Small Python Details
 [What does if __name__ == '__main__' do in Python?](https://www.youtube.com/watch?v=x5IbdKnvt6k)  

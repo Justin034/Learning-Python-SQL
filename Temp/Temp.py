@@ -1,5 +1,5 @@
-import TempLib as TL
+from utils import add, Color
 
-x = TL.add()
-
+x = add()
+print(Color)
 print(x)
