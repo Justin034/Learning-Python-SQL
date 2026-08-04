@@ -13,4 +13,4 @@ This file is used to personally compress multiple PDF files without using an onl
 The following are  a list of resources I used to learn X concepts
 
 ## API
-[your first API today](https://www.scrapingbee.com/blog/api-for-dummies-learning-api/)/
+[your first API today](https://www.scrapingbee.com/blog/api-for-dummies-learning-api/)
