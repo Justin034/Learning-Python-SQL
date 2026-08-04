@@ -12,6 +12,9 @@ This file is used to personally compress multiple PDF files without using an onl
 # Resources
 The following are  a list of resources I used to learn X concepts
 
+## Small Python Details
+[What does if __name__ == '__main__' do in Python?](https://www.youtube.com/watch?v=x5IbdKnvt6k)  
+[What does '__init__.py' do in Python?](https://www.youtube.com/watch?v=VEbuZox5qC4)
+
 ## API
-Youtube:  
 [Master Python Requests In 15 Minutes. Call Any API](https://www.youtube.com/watch?v=Xnbef8F_Yfc)
