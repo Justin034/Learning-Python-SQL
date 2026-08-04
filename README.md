@@ -15,6 +15,7 @@ The following are  a list of resources I used to learn concepts
 ## Small Python Details
 [What does if __name__ == '__main__' do in Python?](https://www.youtube.com/watch?v=x5IbdKnvt6k)  
 [What does '__init__.py' do in Python?](https://www.youtube.com/watch?v=VEbuZox5qC4)
+[Asyncio in Python - Full Tutorial](https://www.youtube.com/watch?v=Qb9s3UiMSTA)
 
 ## API
 [Master Python Requests In 15 Minutes. Call Any API](https://www.youtube.com/watch?v=Xnbef8F_Yfc)
