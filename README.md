@@ -1,10 +1,7 @@
 # Learning-Python-SQL
 The objective of this repo is to self learn Python and SQL. None of the projects featured in this repo is large scale as they are only for learning purposes. Larger scale projects will be available on separate repos.
 
-# List of Projects
-
-## Temp
-The purpose of this folder is for minor testing of new concepts that I may implement into future projects
+# List of Mini Projects in Repo
 
 ## PDF Compressor
 This file is used to personally compress multiple PDF files without using an online resource for file compression
@@ -19,3 +16,6 @@ The following are  a list of resources I used to learn concepts
 
 ## API
 [Master Python Requests In 15 Minutes. Call Any API](https://www.youtube.com/watch?v=Xnbef8F_Yfc)
+
+## SQL
+[SQL Course for Beginners [Full Course] - 3 Hours](https://www.youtube.com/watch?v=7S_tz1z_5bA)
