@@ -19,3 +19,6 @@ The following are  a list of resources I used to learn concepts
 
 ## SQL
 [SQL Course for Beginners [Full Course] - 3 Hours](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+
+## Testing
+[Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
