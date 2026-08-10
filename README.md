@@ -7,7 +7,6 @@ The objective of this repo is to self learn Python and SQL. None of the projects
 This file is used to personally compress multiple PDF files without using an online resource for file compression
 
 # Resources
-The following are  a list of resources I used to learn concepts
 
 ## Small Python Details
 [What does if __name__ == '__main__' do in Python?](https://www.youtube.com/watch?v=x5IbdKnvt6k)  
@@ -20,5 +19,8 @@ The following are  a list of resources I used to learn concepts
 ## SQL
 [SQL Course for Beginners [Full Course] - 3 Hours](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
-## Testing
+## Unittest
 [Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
+
+## Pytest
+[Please Learn How To Write Tests in Python… • Pytest Tutorial](https://www.youtube.com/watch?v=EgpLj86ZHFQ)
