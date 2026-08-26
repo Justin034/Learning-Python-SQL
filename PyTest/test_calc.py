@@ -6,6 +6,7 @@ def test_add():
 
 def test_add_negative():
     assert calc.add(-3, 4) == 1
+    assert calc.add(-3, 4) == 3
 
 def test_invalid():
     with pytest.raises(ValueError):
